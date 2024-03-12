@@ -1,3 +1,11 @@
-# GRIT-A-Dataset-of-Group-Reference-Recognition-in-Italian
-We introduce GRIT (Group Reference for Italian), a large-scale, multi-domain manually annotated dataset for group reference recognition in Italian. 
-GRIT represents a new resource for automatic and generalizable recognition of group references. With this dataset, we aim to establish group reference recognition (GRR) as a valid classification task, which extends the domain of Named Entity Recognition by expanding its focus to literal and figurative mentions of social groups.
+GRIT Dataset
+
+Introducing GRIT (Group Reference for Italian), a comprehensive multi-domain dataset annotated for group reference recognition (GRR) in Italian. 
+
+Overview
+
+    Purpose: To lead the development of GRR as a distinct classification task, enhancing the scope of Named Entity Recognition.
+    Features: Large-scale, multi-domain, manually annotated.
+    Goal: Establishing a benchmark for automatic group reference recognition in Italian, facilitating research and development in linguistic analysis and natural language processing.
+
+Explore GRIT to uncover insights into social group dynamics in Italian texts.
