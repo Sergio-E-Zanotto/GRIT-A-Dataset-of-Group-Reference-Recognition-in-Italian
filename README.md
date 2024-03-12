@@ -2,6 +2,9 @@
 
 Introducing **GRIT** (Group Reference for Italian), a comprehensive multi-domain dataset annotated for group reference recognition (GRR) in Italian. 
 
+To appear in: 
+Sergio E. Zanotto, Qi Yu, Miriam Butt and Diego Frassinelli. 2024. GRIT: A Dataset of Group Reference Recognition in Italian. To appear in Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation.
+
 ## Overview
 
 - **Purpose**: To lead the development of GRR as a distinct classification task, enhancing the scope of Named Entity Recognition.
