@@ -10,3 +10,5 @@ Introducing **GRIT** (Group Reference for Italian), a comprehensive multi-domain
 
 Explore GRIT to uncover insights into social group dynamics in Italian texts.
 
+## Acknowledgement
+This project was funded by the Deutsche Forschungsgemeinschaft (DFG – German Research Foundation) under Germany’s Excellence Strategy – EXC-2035/1 – 390681379. We thank Elisa Dervishi and Michele Bassanelli for their annotation work and their valuable insights into the refinement of the annotation process.
