@@ -3,7 +3,7 @@
 Introducing **GRIT** (Group Reference for Italian), a comprehensive multi-domain dataset annotated for group reference recognition (GRR) in Italian. 
 
 **in:** 
-- Sergio E. Zanotto, Qi Yu, Miriam Butt, and Diego Frassinelli. 2024. [GRIT: A Dataset of Group Reference Recognition in Italian](https://aclanthology.org/2024.lrec-main.701). In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 7963–7970, Torino, Italia. ELRA and ICCL. 
+- Sergio E. Zanotto, Qi Yu, Miriam Butt, and Diego Frassinelli. 2024. [GRIT: A Dataset of Group Reference Recognition in Italian](https://aclanthology.org/2024.lrec-main.701). In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*, pages 7963–7970, Torino, Italia. ELRA and ICCL. 
 
 ## Overview
 
